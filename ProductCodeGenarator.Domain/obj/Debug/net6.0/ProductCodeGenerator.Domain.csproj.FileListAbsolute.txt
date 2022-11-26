@@ -1,0 +1,11 @@
+C:\Users\alper\OneDrive\Masaüstü\ProductCodeGenarator\ProductCodeGenarator.Domain\bin\Debug\net6.0\ProductCodeGenerator.Domain.deps.json
+C:\Users\alper\OneDrive\Masaüstü\ProductCodeGenarator\ProductCodeGenarator.Domain\bin\Debug\net6.0\ProductCodeGenerator.Domain.dll
+C:\Users\alper\OneDrive\Masaüstü\ProductCodeGenarator\ProductCodeGenarator.Domain\bin\Debug\net6.0\ref\ProductCodeGenerator.Domain.dll
+C:\Users\alper\OneDrive\Masaüstü\ProductCodeGenarator\ProductCodeGenarator.Domain\bin\Debug\net6.0\ProductCodeGenerator.Domain.pdb
+C:\Users\alper\OneDrive\Masaüstü\ProductCodeGenarator\ProductCodeGenarator.Domain\obj\Debug\net6.0\ProductCodeGenerator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\OneDrive\Masaüstü\ProductCodeGenarator\ProductCodeGenarator.Domain\obj\Debug\net6.0\ProductCodeGenerator.Domain.AssemblyInfoInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\ProductCodeGenarator\ProductCodeGenarator.Domain\obj\Debug\net6.0\ProductCodeGenerator.Domain.AssemblyInfo.cs
+C:\Users\alper\OneDrive\Masaüstü\ProductCodeGenarator\ProductCodeGenarator.Domain\obj\Debug\net6.0\ProductCodeGenerator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\ProductCodeGenarator\ProductCodeGenarator.Domain\obj\Debug\net6.0\ProductCodeGenerator.Domain.dll
+C:\Users\alper\OneDrive\Masaüstü\ProductCodeGenarator\ProductCodeGenarator.Domain\obj\Debug\net6.0\ref\ProductCodeGenerator.Domain.dll
+C:\Users\alper\OneDrive\Masaüstü\ProductCodeGenarator\ProductCodeGenarator.Domain\obj\Debug\net6.0\ProductCodeGenerator.Domain.pdb
